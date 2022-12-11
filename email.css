@@ -1,0 +1,23 @@
+body{
+    background-color: #666666;
+}
+.menu-color{
+    background-color: black;
+    color:white;
+}
+.menu-pad{
+    padding:10px;
+}
+.btn-position{
+    position:relative;
+    left:10px;
+}
+.btn-align{
+    float:right;
+    position:relative;
+    right:10px;
+    left:0px;
+}
+.name-search{
+    border-radius: 10px;
+}
